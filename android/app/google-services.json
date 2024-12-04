@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "689843364114",
+    "project_id": "climbonbrezy",
+    "storage_bucket": "climbonbrezy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689843364114:android:33acedd166cf90836253cb",
+        "android_client_info": {
+          "package_name": "com.example.climbon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkyuiPXKDQP_Q67SOD9XyuAqJcgZrqwxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
