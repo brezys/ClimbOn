@@ -37,7 +37,7 @@ This is to compare the wireframe
 |     Login    |     Climb Creation     |   Climbs      | User Profile  |　Registration |
 | :---:         |     :---:              |     :---:     | :---:         |   :---:             |
 |  <img src="https://github.com/user-attachments/assets/66b81002-9f31-4b02-a560-099c2a997e61" alt="LoginPageRealCurr" style="width:100%; height:auto;">| Climb Creation❌     | Climbs❌  |      User Profile❌      |  <img src="https://github.com/user-attachments/assets/59b4ab79-823e-49e9-9587-a652528cebf1" alt="RegistrationPageCurr" style="width:100%; height:auto;">
-          | 
+          
 
 
 
