@@ -32,7 +32,15 @@ Current mock ups I have designed application's pages.
 | :---:         |     :---:              |     :---:     | :---:         |
 |  <img src="https://github.com/user-attachments/assets/7e90968e-817d-477e-a9ae-b812d6fe8159" alt="LoginPage" style="width:100%; height:auto;"> | <img src="https://github.com/user-attachments/assets/a3506b96-a583-4ca5-b214-0ef64bf533d1" alt="ClimbCreation" style="width:100%; height:auto;">           | <img src="https://github.com/user-attachments/assets/f8c15ad4-9754-45ee-84b0-7fa0a917a1d5" alt="Climbs" style="width:100%; height:auto;">    |      <img src="https://github.com/user-attachments/assets/b00ff429-3704-42be-9056-63346533fcc0" alt="UserProfile" style="width:100%; height:auto;">         |
 
-## Current Design
+## Current Design 12月3日
+This is to compare the wireframe
+|     Login    |     Climb Creation     |   Climbs      | User Profile  |　Registration |
+| :---:         |     :---:              |     :---:     | :---:         |   :---:             |
+|  <img src="https://github.com/user-attachments/assets/d71dc456-4c44-43fe-a2d3-6f74c8150b2a" alt="LoginPageRealCurr" style="width:100%; height:auto;">| Climb Creation❌     | Climbs❌  |      User Profile❌      |  <img src="https://github.com/user-attachments/assets/59b4ab79-823e-49e9-9587-a652528cebf1" alt="RegistrationPageCurr" style="width:100%; height:auto;">
+          |
+
+
+## First Design
 This is to compare the wireframe
 |     Login    |     Climb Creation     |   Climbs      | User Profile  |
 | :---:         |     :---:              |     :---:     | :---:         |
